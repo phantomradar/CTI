@@ -79,3 +79,13 @@
 | Remote Desktop Manager                       | remotedesktopmanager.com                          |
 | PCAnywhere (Now Discontinued)                | Historical, previously offered by Symantec        |
 | CrossLoop (Now Discontinued)                 | Historical, service discontinued                  |
+| SolarWinds N-central                         | www.n-able.com/products/n-central                 |
+| Auvik                                        | www.auvik.com                                     |
+| Automate (formerly LabTech)                  | www.connectwise.com/software/automate             |
+| MaxFocus (formerly GFI Max)                  | www.solarwindsmsp.com/products/rmm                |
+| ITarian RMM                                  | www.itarian.com                                   |
+| NinjaOne (formerly NinjaRMM)                 | www.ninjaone.com                                  |
+| Domotz Pro                                   | www.domotz.com                                    |
+| Kaseya BMS                                   | www.kaseya.com/solutions/bms                      |
+| OptiTune                                     | www.bravurasoftware.com/optitune                  |
+| SyncroMSP                                    | www.syncromsp.com                                 |
